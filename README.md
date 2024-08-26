@@ -4,3 +4,5 @@ Repositorio de la Unidad 2
 Hicimos bucles
 ## Week 6
 Hicimos funciones
+## Week 7
+Algortimo de Luhn
